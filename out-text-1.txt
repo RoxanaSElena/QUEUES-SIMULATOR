@@ -1,0 +1,382 @@
+ (1,19,2) 
+ (2,7,1) 
+ (3,15,1) 
+ (4,18,2) 
+TIME0
+Queue 0 closed
+Queue 1 closed
+TIME0
+Queue 0 closed
+Queue 1 closed
+TIME1
+Queue 0 closed
+Queue 1 closed
+TIME3
+Queue 0 closed
+Queue 1 closed
+TIME4
+Queue 0 closed
+Queue 1 closed
+TIME5
+Queue 0 closed
+Queue 1 closed
+TIME6
+Queue 0 closed
+Queue 1 closed
+TIME7
+Queue 0 [ (2,7,1) ];
+Queue 1 closed
+TIME8
+Queue 0 closed
+Queue 1 closed
+TIME8
+Queue 0 closed
+Queue 1 closed
+TIME10
+Queue 0 closed
+Queue 1 closed
+TIME11
+Queue 0 closed
+Queue 1 closed
+TIME12
+Queue 0 closed
+Queue 1 closed
+TIME13
+Queue 0 closed
+Queue 1 closed
+TIME14
+Queue 0 closed
+Queue 1 closed
+TIME15
+Queue 0 [ (3,15,1) ];
+Queue 1 closed
+TIME15
+Queue 0 closed
+Queue 1 closed
+TIME17
+Queue 0 closed
+Queue 1 closed
+TIME18
+Queue 0 [ (4,18,2) ];
+Queue 1 closed
+TIME19
+Queue 0 [ (4,18,2) ];
+Queue 1 [ (1,19,2) ];
+TIME19
+Queue 0 closed
+Queue 1 [ (1,19,2) ];
+TIME21
+Queue 0 closed
+Queue 1 closed
+TIME22
+Queue 0 closed
+Queue 1 closed
+TIME23
+Queue 0 closed
+Queue 1 closed
+TIME24
+Queue 0 closed
+Queue 1 closed
+TIME25
+Queue 0 closed
+Queue 1 closed
+TIME26
+Queue 0 closed
+Queue 1 closed
+TIME27
+Queue 0 closed
+Queue 1 closed
+TIME28
+Queue 0 closed
+Queue 1 closed
+TIME29
+Queue 0 closed
+Queue 1 closed
+TIME30
+Queue 0 closed
+Queue 1 closed
+TIME30
+Queue 0 closed
+Queue 1 closed
+TIME32
+Queue 0 closed
+Queue 1 closed
+TIME32
+Queue 0 closed
+Queue 1 closed
+TIME34
+Queue 0 closed
+Queue 1 closed
+TIME35
+Queue 0 closed
+Queue 1 closed
+TIME36
+Queue 0 closed
+Queue 1 closed
+TIME37
+Queue 0 closed
+Queue 1 closed
+TIME38
+Queue 0 closed
+Queue 1 closed
+TIME39
+Queue 0 closed
+Queue 1 closed
+TIME40
+Queue 0 closed
+Queue 1 closed
+TIME41
+Queue 0 closed
+Queue 1 closed
+TIME41
+Queue 0 closed
+Queue 1 closed
+TIME43
+Queue 0 closed
+Queue 1 closed
+TIME43
+Queue 0 closed
+Queue 1 closed
+TIME45
+Queue 0 closed
+Queue 1 closed
+TIME46
+Queue 0 closed
+Queue 1 closed
+TIME47
+Queue 0 closed
+Queue 1 closed
+TIME48
+Queue 0 closed
+Queue 1 closed
+TIME49
+Queue 0 closed
+Queue 1 closed
+TIME50
+Queue 0 closed
+Queue 1 closed
+TIME51
+Queue 0 closed
+Queue 1 closed
+TIME52
+Queue 0 closed
+Queue 1 closed
+TIME53
+Queue 0 closed
+Queue 1 closed
+TIME54
+Queue 0 closed
+Queue 1 closed
+TIME55
+Queue 0 closed
+Queue 1 closed
+TIME56
+Queue 0 closed
+Queue 1 closed
+TIME57
+Queue 0 closed
+Queue 1 closed
+TIME58
+Queue 0 closed
+Queue 1 closed
+TIME59
+Queue 0 closed
+Queue 1 closed
+TIME60
+Queue 0 closed
+Queue 1 closed
+TIME61
+Queue 0 closed
+Queue 1 closed
+1
+ (1,14,2) 
+ (2,8,1) 
+ (3,7,1) 
+ (4,21,1) 
+TIME0
+Queue 0 closed
+Queue 1 closed
+TIME0
+Queue 0 closed
+Queue 1 closed
+TIME2
+Queue 0 closed
+Queue 1 closed
+TIME3
+Queue 0 closed
+Queue 1 closed
+TIME4
+Queue 0 closed
+Queue 1 closed
+TIME5
+Queue 0 closed
+Queue 1 closed
+TIME6
+Queue 0 closed
+Queue 1 closed
+TIME6
+Queue 0 [ (3,7,1) ];
+Queue 1 closed
+TIME8
+Queue 0 [ (2,8,1) ];
+Queue 1 closed
+TIME9
+Queue 0 closed
+Queue 1 closed
+TIME10
+Queue 0 closed
+Queue 1 closed
+TIME11
+Queue 0 closed
+Queue 1 closed
+TIME12
+Queue 0 closed
+Queue 1 closed
+TIME13
+Queue 0 closed
+Queue 1 closed
+TIME14
+Queue 0 [ (1,14,2) ];
+Queue 1 closed
+TIME15
+Queue 0 [ (1,14,2) ];
+Queue 1 closed
+TIME15
+Queue 0 closed
+Queue 1 closed
+TIME17
+Queue 0 closed
+Queue 1 closed
+TIME18
+Queue 0 closed
+Queue 1 closed
+TIME19
+Queue 0 closed
+Queue 1 closed
+TIME20
+Queue 0 closed
+Queue 1 closed
+TIME21
+Queue 0 [ (4,21,1) ];
+Queue 1 closed
+TIME22
+Queue 0 closed
+Queue 1 closed
+TIME23
+Queue 0 closed
+Queue 1 closed
+TIME24
+Queue 0 closed
+Queue 1 closed
+TIME25
+Queue 0 closed
+Queue 1 closed
+TIME26
+Queue 0 closed
+Queue 1 closed
+TIME27
+Queue 0 closed
+Queue 1 closed
+TIME28
+Queue 0 closed
+Queue 1 closed
+TIME29
+Queue 0 closed
+Queue 1 closed
+TIME29
+Queue 0 closed
+Queue 1 closed
+TIME30
+Queue 0 closed
+Queue 1 closed
+TIME31
+Queue 0 closed
+Queue 1 closed
+TIME32
+Queue 0 closed
+Queue 1 closed
+TIME33
+Queue 0 closed
+Queue 1 closed
+TIME34
+Queue 0 closed
+Queue 1 closed
+TIME35
+Queue 0 closed
+Queue 1 closed
+TIME36
+Queue 0 closed
+Queue 1 closed
+TIME37
+Queue 0 closed
+Queue 1 closed
+TIME38
+Queue 0 closed
+Queue 1 closed
+TIME39
+Queue 0 closed
+Queue 1 closed
+TIME41
+Queue 0 closed
+Queue 1 closed
+TIME42
+Queue 0 closed
+Queue 1 closed
+TIME43
+Queue 0 closed
+Queue 1 closed
+TIME44
+Queue 0 closed
+Queue 1 closed
+TIME45
+Queue 0 closed
+Queue 1 closed
+TIME46
+Queue 0 closed
+Queue 1 closed
+TIME47
+Queue 0 closed
+Queue 1 closed
+TIME48
+Queue 0 closed
+Queue 1 closed
+TIME49
+Queue 0 closed
+Queue 1 closed
+TIME50
+Queue 0 closed
+Queue 1 closed
+TIME50
+Queue 0 closed
+Queue 1 closed
+TIME52
+Queue 0 closed
+Queue 1 closed
+TIME53
+Queue 0 closed
+Queue 1 closed
+TIME53
+Queue 0 closed
+Queue 1 closed
+TIME55
+Queue 0 closed
+Queue 1 closed
+TIME56
+Queue 0 closed
+Queue 1 closed
+TIME57
+Queue 0 closed
+Queue 1 closed
+TIME58
+Queue 0 closed
+Queue 1 closed
+TIME59
+Queue 0 closed
+Queue 1 closed
+TIME60
+Queue 0 closed
+Queue 1 closed
+TIME61
+Queue 0 closed
+Queue 1 closed
+1

@@ -1,0 +1,417 @@
+ (1,21,2) 
+ (2,21,3) 
+ (3,13,1) 
+ (4,1,3) 
+ (5,4,1) 
+ (6,16,2) 
+ (7,33,6) 
+ (8,2,3) 
+ (9,16,2) 
+ (10,5,5) 
+ (11,12,6) 
+ (12,3,5) 
+ (13,25,6) 
+ (14,1,1) 
+ (15,14,6) 
+ (16,32,1) 
+ (17,36,3) 
+ (18,10,5) 
+ (19,10,6) 
+ (20,7,2) 
+ (21,13,6) 
+ (22,1,2) 
+ (23,1,2) 
+ (24,7,4) 
+ (25,26,2) 
+ (26,10,1) 
+ (27,5,6) 
+ (28,13,1) 
+ (29,27,4) 
+ (30,5,2) 
+ (31,5,5) 
+ (32,14,5) 
+ (33,10,5) 
+ (34,1,4) 
+ (35,30,4) 
+ (36,32,4) 
+ (37,37,3) 
+ (38,8,6) 
+ (39,6,5) 
+ (40,9,6) 
+ (41,7,4) 
+ (42,7,6) 
+ (43,20,5) 
+ (44,15,3) 
+ (45,35,6) 
+ (46,5,2) 
+ (47,22,2) 
+ (48,15,5) 
+ (49,11,4) 
+ (50,7,5) 
+TIME0
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME1
+Queue 0 [ (4,1,3) ];
+Queue 1 [ (14,1,1) ];
+Queue 2 [ (22,1,2) ];
+Queue 3 [ (23,1,2) ];
+Queue 4 [ (34,1,4) ];
+TIME2
+Queue 0 [ (4,1,3) ];
+Queue 1 [ (8,2,3) ];
+Queue 2 [ (22,1,2) ];
+Queue 3 [ (23,1,2) ];
+Queue 4 [ (34,1,4) ];
+TIME3
+Queue 0 [ (4,1,3) ];
+Queue 1 [ (8,2,3) ];
+Queue 2 [ (12,3,5) ];
+Queue 3 closed
+Queue 4 [ (34,1,4) ];
+TIME4
+Queue 0 [ (5,4,1) ];
+Queue 1 [ (8,2,3) ];
+Queue 2 [ (12,3,5) ];
+Queue 3 closed
+Queue 4 [ (34,1,4) ];
+TIME5
+Queue 0 [ (10,5,5) ];
+Queue 1 [ (27,5,6) ];
+Queue 2 [ (12,3,5) ];
+Queue 3 [ (30,5,2) ,  (46,5,2) ];
+Queue 4 [ (31,5,5) ];
+TIME6
+Queue 0 [ (10,5,5) ];
+Queue 1 [ (27,5,6) ];
+Queue 2 [ (12,3,5) ];
+Queue 3 [ (30,5,2) ,  (46,5,2) ,  (39,6,5) ];
+Queue 4 [ (31,5,5) ];
+TIME7
+Queue 0 [ (10,5,5) ,  (20,7,2) ,  (50,7,5) ];
+Queue 1 [ (27,5,6) ,  (42,7,6) ];
+Queue 2 [ (12,3,5) ,  (24,7,4) ];
+Queue 3 [ (46,5,2) ,  (39,6,5) ];
+Queue 4 [ (31,5,5) ,  (41,7,4) ];
+TIME8
+Queue 0 [ (10,5,5) ,  (20,7,2) ,  (50,7,5) ];
+Queue 1 [ (27,5,6) ,  (42,7,6) ];
+Queue 2 [ (24,7,4) ,  (38,8,6) ];
+Queue 3 [ (46,5,2) ,  (39,6,5) ];
+Queue 4 [ (31,5,5) ,  (41,7,4) ];
+TIME9
+Queue 0 [ (10,5,5) ,  (20,7,2) ,  (50,7,5) ];
+Queue 1 [ (27,5,6) ,  (42,7,6) ];
+Queue 2 [ (24,7,4) ,  (38,8,6) ];
+Queue 3 [ (39,6,5) ,  (40,9,6) ];
+Queue 4 [ (31,5,5) ,  (41,7,4) ];
+TIME10
+Queue 0 [ (20,7,2) ,  (50,7,5) ,  (19,10,6) ];
+Queue 1 [ (27,5,6) ,  (42,7,6) ];
+Queue 2 [ (24,7,4) ,  (38,8,6) ,  (33,10,5) ];
+Queue 3 [ (39,6,5) ,  (40,9,6) ];
+Queue 4 [ (41,7,4) ,  (18,10,5) ,  (26,10,1) ];
+TIME11
+Queue 0 [ (20,7,2) ,  (50,7,5) ,  (19,10,6) ];
+Queue 1 [ (42,7,6) ,  (49,11,4) ];
+Queue 2 [ (24,7,4) ,  (38,8,6) ,  (33,10,5) ];
+Queue 3 [ (39,6,5) ,  (40,9,6) ];
+Queue 4 [ (41,7,4) ,  (18,10,5) ,  (26,10,1) ];
+TIME12
+Queue 0 [ (50,7,5) ,  (19,10,6) ];
+Queue 1 [ (42,7,6) ,  (49,11,4) ,  (11,12,6) ];
+Queue 2 [ (38,8,6) ,  (33,10,5) ];
+Queue 3 [ (39,6,5) ,  (40,9,6) ];
+Queue 4 [ (41,7,4) ,  (18,10,5) ,  (26,10,1) ];
+TIME13
+Queue 0 [ (50,7,5) ,  (19,10,6) ,  (21,13,6) ];
+Queue 1 [ (42,7,6) ,  (49,11,4) ,  (11,12,6) ];
+Queue 2 [ (38,8,6) ,  (33,10,5) ,  (28,13,1) ];
+Queue 3 [ (39,6,5) ,  (40,9,6) ];
+Queue 4 [ (41,7,4) ,  (18,10,5) ,  (26,10,1) ,  (3,13,1) ];
+TIME14
+Queue 0 [ (50,7,5) ,  (19,10,6) ,  (21,13,6) ];
+Queue 1 [ (42,7,6) ,  (49,11,4) ,  (11,12,6) ];
+Queue 2 [ (38,8,6) ,  (33,10,5) ,  (28,13,1) ];
+Queue 3 [ (40,9,6) ,  (15,14,6) ];
+Queue 4 [ (18,10,5) ,  (26,10,1) ,  (3,13,1) ,  (32,14,5) ];
+TIME15
+Queue 0 [ (50,7,5) ,  (19,10,6) ,  (21,13,6) ];
+Queue 1 [ (42,7,6) ,  (49,11,4) ,  (11,12,6) ];
+Queue 2 [ (38,8,6) ,  (33,10,5) ,  (28,13,1) ,  (44,15,3) ];
+Queue 3 [ (40,9,6) ,  (15,14,6) ,  (48,15,5) ];
+Queue 4 [ (18,10,5) ,  (26,10,1) ,  (3,13,1) ,  (32,14,5) ];
+TIME16
+Queue 0 [ (50,7,5) ,  (19,10,6) ,  (21,13,6) ];
+Queue 1 [ (42,7,6) ,  (49,11,4) ,  (11,12,6) ];
+Queue 2 [ (38,8,6) ,  (33,10,5) ,  (28,13,1) ,  (44,15,3) ];
+Queue 3 [ (40,9,6) ,  (15,14,6) ,  (48,15,5) ];
+Queue 4 [ (18,10,5) ,  (26,10,1) ,  (3,13,1) ,  (32,14,5) ,  (6,16,2) ,  (9,16,2) ];
+TIME17
+Queue 0 [ (19,10,6) ,  (21,13,6) ];
+Queue 1 [ (49,11,4) ,  (11,12,6) ];
+Queue 2 [ (38,8,6) ,  (33,10,5) ,  (28,13,1) ,  (44,15,3) ];
+Queue 3 [ (40,9,6) ,  (15,14,6) ,  (48,15,5) ];
+Queue 4 [ (18,10,5) ,  (26,10,1) ,  (3,13,1) ,  (32,14,5) ,  (6,16,2) ,  (9,16,2) ];
+TIME18
+Queue 0 [ (19,10,6) ,  (21,13,6) ];
+Queue 1 [ (49,11,4) ,  (11,12,6) ];
+Queue 2 [ (33,10,5) ,  (28,13,1) ,  (44,15,3) ];
+Queue 3 [ (40,9,6) ,  (15,14,6) ,  (48,15,5) ];
+Queue 4 [ (18,10,5) ,  (26,10,1) ,  (3,13,1) ,  (32,14,5) ,  (6,16,2) ,  (9,16,2) ];
+TIME19
+Queue 0 [ (19,10,6) ,  (21,13,6) ];
+Queue 1 [ (49,11,4) ,  (11,12,6) ];
+Queue 2 [ (33,10,5) ,  (28,13,1) ,  (44,15,3) ];
+Queue 3 [ (40,9,6) ,  (15,14,6) ,  (48,15,5) ];
+Queue 4 [ (26,10,1) ,  (3,13,1) ,  (32,14,5) ,  (6,16,2) ,  (9,16,2) ];
+TIME20
+Queue 0 [ (19,10,6) ,  (21,13,6) ];
+Queue 1 [ (49,11,4) ,  (11,12,6) ];
+Queue 2 [ (33,10,5) ,  (28,13,1) ,  (44,15,3) ,  (43,20,5) ];
+Queue 3 [ (15,14,6) ,  (48,15,5) ];
+Queue 4 [ (3,13,1) ,  (32,14,5) ,  (6,16,2) ,  (9,16,2) ];
+TIME21
+Queue 0 [ (19,10,6) ,  (21,13,6) ];
+Queue 1 [ (11,12,6) ,  (1,21,2) ,  (2,21,3) ];
+Queue 2 [ (33,10,5) ,  (28,13,1) ,  (44,15,3) ,  (43,20,5) ];
+Queue 3 [ (15,14,6) ,  (48,15,5) ];
+Queue 4 [ (32,14,5) ,  (6,16,2) ,  (9,16,2) ];
+TIME22
+Queue 0 [ (19,10,6) ,  (21,13,6) ];
+Queue 1 [ (11,12,6) ,  (1,21,2) ,  (2,21,3) ];
+Queue 2 [ (33,10,5) ,  (28,13,1) ,  (44,15,3) ,  (43,20,5) ];
+Queue 3 [ (15,14,6) ,  (48,15,5) ];
+Queue 4 [ (32,14,5) ,  (6,16,2) ,  (9,16,2) ,  (47,22,2) ];
+TIME23
+Queue 0 [ (21,13,6) ];
+Queue 1 [ (11,12,6) ,  (1,21,2) ,  (2,21,3) ];
+Queue 2 [ (28,13,1) ,  (44,15,3) ,  (43,20,5) ];
+Queue 3 [ (15,14,6) ,  (48,15,5) ];
+Queue 4 [ (32,14,5) ,  (6,16,2) ,  (9,16,2) ,  (47,22,2) ];
+TIME24
+Queue 0 [ (21,13,6) ];
+Queue 1 [ (11,12,6) ,  (1,21,2) ,  (2,21,3) ];
+Queue 2 [ (44,15,3) ,  (43,20,5) ];
+Queue 3 [ (15,14,6) ,  (48,15,5) ];
+Queue 4 [ (32,14,5) ,  (6,16,2) ,  (9,16,2) ,  (47,22,2) ];
+TIME25
+Queue 0 [ (21,13,6) ,  (13,25,6) ];
+Queue 1 [ (11,12,6) ,  (1,21,2) ,  (2,21,3) ];
+Queue 2 [ (44,15,3) ,  (43,20,5) ];
+Queue 3 [ (15,14,6) ,  (48,15,5) ];
+Queue 4 [ (32,14,5) ,  (6,16,2) ,  (9,16,2) ,  (47,22,2) ];
+TIME26
+Queue 0 [ (21,13,6) ,  (13,25,6) ];
+Queue 1 [ (11,12,6) ,  (1,21,2) ,  (2,21,3) ];
+Queue 2 [ (44,15,3) ,  (43,20,5) ];
+Queue 3 [ (48,15,5) ,  (25,26,2) ];
+Queue 4 [ (6,16,2) ,  (9,16,2) ,  (47,22,2) ];
+TIME27
+Queue 0 [ (21,13,6) ,  (13,25,6) ];
+Queue 1 [ (1,21,2) ,  (2,21,3) ,  (29,27,4) ];
+Queue 2 [ (43,20,5) ];
+Queue 3 [ (48,15,5) ,  (25,26,2) ];
+Queue 4 [ (6,16,2) ,  (9,16,2) ,  (47,22,2) ];
+TIME28
+Queue 0 [ (21,13,6) ,  (13,25,6) ];
+Queue 1 [ (1,21,2) ,  (2,21,3) ,  (29,27,4) ];
+Queue 2 [ (43,20,5) ];
+Queue 3 [ (48,15,5) ,  (25,26,2) ];
+Queue 4 [ (9,16,2) ,  (47,22,2) ];
+TIME29
+Queue 0 [ (13,25,6) ];
+Queue 1 [ (2,21,3) ,  (29,27,4) ];
+Queue 2 [ (43,20,5) ];
+Queue 3 [ (48,15,5) ,  (25,26,2) ];
+Queue 4 [ (9,16,2) ,  (47,22,2) ];
+TIME30
+Queue 0 [ (13,25,6) ];
+Queue 1 [ (2,21,3) ,  (29,27,4) ];
+Queue 2 [ (43,20,5) ];
+Queue 3 [ (48,15,5) ,  (25,26,2) ];
+Queue 4 [ (47,22,2) ,  (35,30,4) ];
+TIME31
+Queue 0 [ (13,25,6) ];
+Queue 1 [ (2,21,3) ,  (29,27,4) ];
+Queue 2 [ (43,20,5) ];
+Queue 3 [ (25,26,2) ];
+Queue 4 [ (47,22,2) ,  (35,30,4) ];
+TIME32
+Queue 0 [ (13,25,6) ];
+Queue 1 [ (29,27,4) ];
+Queue 2 [ (16,32,1) ,  (36,32,4) ];
+Queue 3 [ (25,26,2) ];
+Queue 4 [ (35,30,4) ];
+TIME33
+Queue 0 [ (13,25,6) ];
+Queue 1 [ (29,27,4) ];
+Queue 2 [ (36,32,4) ];
+Queue 3 [ (7,33,6) ];
+Queue 4 [ (35,30,4) ];
+TIME34
+Queue 0 [ (13,25,6) ];
+Queue 1 [ (29,27,4) ];
+Queue 2 [ (36,32,4) ];
+Queue 3 [ (7,33,6) ];
+Queue 4 [ (35,30,4) ];
+TIME35
+Queue 0 [ (45,35,6) ];
+Queue 1 [ (29,27,4) ];
+Queue 2 [ (36,32,4) ];
+Queue 3 [ (7,33,6) ];
+Queue 4 [ (35,30,4) ];
+TIME36
+Queue 0 [ (45,35,6) ];
+Queue 1 [ (17,36,3) ];
+Queue 2 [ (36,32,4) ];
+Queue 3 [ (7,33,6) ];
+Queue 4 closed
+TIME37
+Queue 0 [ (45,35,6) ];
+Queue 1 [ (17,36,3) ];
+Queue 2 [ (37,37,3) ];
+Queue 3 [ (7,33,6) ];
+Queue 4 closed
+TIME38
+Queue 0 [ (45,35,6) ];
+Queue 1 [ (17,36,3) ];
+Queue 2 [ (37,37,3) ];
+Queue 3 [ (7,33,6) ];
+Queue 4 closed
+TIME39
+Queue 0 [ (45,35,6) ];
+Queue 1 closed
+Queue 2 [ (37,37,3) ];
+Queue 3 closed
+Queue 4 closed
+TIME40
+Queue 0 [ (45,35,6) ];
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME41
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME42
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME43
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME44
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME45
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME46
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME47
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME48
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME49
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME50
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME51
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME52
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME53
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME54
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME55
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME56
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME57
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME58
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME59
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+TIME60
+Queue 0 closed
+Queue 1 closed
+Queue 2 closed
+Queue 3 closed
+Queue 4 closed
+3
